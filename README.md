@@ -10,7 +10,7 @@ Follow these steps to set up and run the system.
 
 Clone the repository to your local machine and open the project in NetBeans.
  ```bash
-    https://github.com/MarlonCopara/Sistema-Registro-Asistencia.git
+ git clone https://github.com/MarlonCopara/Sistema-Registro-Asistencia.git
     
  ### Step 2: Configure NetBeans
 
